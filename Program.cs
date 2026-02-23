@@ -8,9 +8,12 @@ namespace TestProject1
 {
     class Program
     {
+        //Sample Commit Test Start
         static void Main(string[] args)
         {
-            //
+            Console.WriteLine("Hello World!");
+            // Test Commit
         }
+        //Sample Commit Test End
     }
 }
