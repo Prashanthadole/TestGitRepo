@@ -8,7 +8,6 @@ namespace TestProject1
 {
     class Program
     {
-        // Test
         static void Main(string[] args)
         {
         }
